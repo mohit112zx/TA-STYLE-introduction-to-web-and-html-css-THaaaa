@@ -1,17 +1,18 @@
-h1 {
+body {
+    background-color: navy;
+}
+#name {
+font-size: 35;
     color: white;
-    font-size: 35px;
 }
 .gr {
     color: green;
-    font-size: 30px;
-}
-body{
-    background-color: navy;
+    font-size: 25px;
 }
 .wh {
-    color: aliceblue;
+    color: white;
+    font-size: small;
 }
-.re{
+.re {
     color: red;
 }
