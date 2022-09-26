@@ -1,0 +1,17 @@
+h1 {
+    color: white;
+    font-size: 35px;
+}
+.gr {
+    color: green;
+    font-size: 30px;
+}
+body{
+    background-color: navy;
+}
+.wh {
+    color: aliceblue;
+}
+.re{
+    color: red;
+}
