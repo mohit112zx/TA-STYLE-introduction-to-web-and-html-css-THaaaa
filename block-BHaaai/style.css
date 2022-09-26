@@ -1,0 +1,40 @@
+#name {
+    font-size: 35;
+        color: white;
+        font-size: 35px;
+        text-align: center;
+    }
+    .gr {
+        color: green;
+        font-size: 30px;
+    }
+    body{
+        background-color: navy;
+        font-size: 25px;
+    }
+    .wh {
+        color: aliceblue;
+        color: white;
+        font-size: small
+    }
+    .im {
+        align-items: center;
+    }
+    address{
+        text-align: center;
+    }
+    .im {
+        text-align: center;
+        align-self: start;
+    }
+    img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .re {
+        word-break: break-all;
+        word-spacing: 1cm;
+        word-break: break-all;
+        font-size: small;
+    }
